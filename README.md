@@ -17,7 +17,7 @@ This project demonstrates two types of Uniswap token swaps:
    npm install
    ```
 
-3. Configure your environment variables (if needed) in the `.env` file for the Ethereum RPC URL or private keys.
+3. Configure your environment variables (if needed) in the `.env` file for the Ethereum RPC URL.
 
 ## Usage
 
